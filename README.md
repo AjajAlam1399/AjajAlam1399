@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img width="400"  align="center"  src="https://github-readme-stats.vercel.app/api?username=ajajalam1399&show_icons=true&locale=en" alt="ajajalam1399" /></p>
 
+![snake gif](https://github.com/AjajAlam1399/AjajAlam1399/blob/output/github-contribution-grid-snake.gif)
 
