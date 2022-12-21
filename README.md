@@ -1,6 +1,6 @@
 ![MasterHead](https://www.codemade.io/wp-content/uploads/2019/06/hire-full-stack-developer-for-your-web-development-project-apptha-1560176277gnk48.jpg)
 <h1 align="center">Hi 👋, I'm Ajaj 🎗️</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 <img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajajalam1399&label=Profile%20views&color=0e75b6&style=flat" alt="ajajalam1399" /> </p>
 
